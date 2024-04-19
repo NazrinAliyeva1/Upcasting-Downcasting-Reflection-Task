@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\Praktika tap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|c:\\users\\99455\\source\\repos\\praktika tap\\praktika tap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|..\\Praktika tap\\Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|..\\Praktika tap\\Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|..\\Praktika tap\\Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|..\\Praktika tap\\Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|..\\Praktika tap\\Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|..\\Praktika tap\\Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|..\\Praktika tap\\Praktika tap\\Praktika tap..csproj|C:\\Users\\99455\\source\\repos\\Praktika tap\\praktika tap\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F112F8DC-80ED-4212-AA7B-6A1639E21BBB}|..\\Praktika tap\\Praktika tap\\Praktika tap..csproj|solutionrelative:praktika tap\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Program.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Program.cs",
+              "RelativeToolTip": "Praktika tap\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:45:57.143Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Program.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Program.cs",
+              "RelativeToolTip": "Praktika tap\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:21:11.548Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pineapple.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Pineapple.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Pineapple.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Pineapple.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Pineapple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:43:45.691Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Lion.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Lion.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Lion.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Lion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:09:12.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Cow.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Cow.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Cow.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Cow.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:06:15.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Animal.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Animal.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:01:10.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Meat.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Meat.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Meat.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Meat.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T03:34:47.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Grass.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Grass.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Grass.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Grass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T03:34:38.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Food.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T03:25:18.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Fruit.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Fruit.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Fruit.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Fruit.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:40:20.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Apple.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Apple.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Apple.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Apple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:40:19.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Orange.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Orange.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Orange.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Orange.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Orange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:23:06.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pineapple.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Pineapple.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Pineapple.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Pineapple.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Pineapple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:22:51.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Apple.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Apple.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Apple.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Apple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:22:41.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Fruit.cs",
+              "RelativeDocumentMoniker": "Praktika tap\\Models\\Fruit.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Praktika tap\\Praktika tap\\Models\\Fruit.cs",
+              "RelativeToolTip": "Praktika tap\\Models\\Fruit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:22:33.999Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
